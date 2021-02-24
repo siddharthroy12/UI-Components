@@ -69,7 +69,7 @@ h1 {
   position: fixed;
   top: 0;
   width: 100%;
-  box-shadow: 0 2px 5px 1px rgba(64,60,67,.16);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
   z-index: 1;
 }
 
