@@ -189,6 +189,7 @@ export default {
   position: fixed;
   background-color: var(--bg-primary);
   transition: width 200ms ease;
+  z-index: 2;
 }
 
 .logo {
